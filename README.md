@@ -1,2 +1,2 @@
-# gradle
-gradle demo project
+# maven
+maven demo project
